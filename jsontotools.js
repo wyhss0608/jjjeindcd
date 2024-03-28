@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { axiosConfig } from '@jjjeindcd/proxy';
-import { sleep } from '@jjjeindcd/sleep';
-import { formatTimestamp } from '@jjjeindcd/date-time-processor';
-import { log } from '@jjjeindcd/log';
+import { axiosConfig } from '@jsontotools/proxy';
+import { sleep } from '@jsontotools/sleep';
+import { formatTimestamp } from '@jsontotools/date-time-processor';
+import { log } from '@jsontotools/log';
 
 const retryDuration = 1000;
 

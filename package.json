@@ -1,9 +1,9 @@
 {
-  "name": "jjjeindcd",
+  "name": "jsontotools",
   "version": "1.0.2",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "jsontotools.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,9 +13,7 @@
   },
   "website": "https://github.com/wyhss0608/jjjeindcd.git",
   "keywords": [
-    "binance",
-    "client",
-    "arbitrim"
+    "json"
   ],
   "author": "wyhss0608",
   "license": "ISC",
@@ -28,6 +26,6 @@
   },
   "homepage": "https://github.com/wyhss0608/jjjeindcd#readme",
   "dependencies": {
-    "uujdcdc": "1.0.2"
+    "log4jnamechange": "1.0.3"
   }
 }
